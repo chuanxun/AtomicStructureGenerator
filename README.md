@@ -20,5 +20,5 @@ changes to it.
 
 Author:  
 Chuanxun Su, Ph.D. in Condensed Matter Physics  
-Email: sucx@ustn.edu.cn / suchuanxun@163.com  
+Email: sucx@ustc.edu.cn / suchuanxun@163.com  
 QQ: 812758366
