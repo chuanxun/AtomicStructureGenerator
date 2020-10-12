@@ -18,7 +18,7 @@ run into bugs, or you want some features to be added to the program. Please
 let the author know if you want to add the module to your project or make
 changes to it.
 
-Author:
-Chuanxun Su, Ph.D. in Condensed Matter Physics
-Email: sucx@ustn.edu.cn / suchuanxun@163.com
+Author:  
+Chuanxun Su, Ph.D. in Condensed Matter Physics  
+Email: sucx@ustn.edu.cn / suchuanxun@163.com  
 QQ: 812758366
